@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "683577f172c52e9f12d41944",
+    "name": "Safety Mart",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334576/admin-dashboard/brands/m17qf5ietws5ir9u37eg.png",
+    "createdAt": "2025-05-27T08:29:37.189Z",
+    "updatedAt": "2025-05-27T08:29:37.189Z",
+    "__v": 0
+  },
+  {
+    "_id": "6835783d72c52e9f12d4194a",
+    "name": "Parent's Choice",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334652/admin-dashboard/brands/dchxji3vbinq5k06jm3v.png",
+    "createdAt": "2025-05-27T08:30:53.055Z",
+    "updatedAt": "2025-05-27T08:30:53.055Z",
+    "__v": 0
+  },
+  {
+    "_id": "6835785a72c52e9f12d41950",
+    "name": "Pampers L.L.C",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334681/admin-dashboard/brands/frik64nlmxtexluledlj.png",
+    "createdAt": "2025-05-27T08:31:22.379Z",
+    "updatedAt": "2025-05-27T08:31:22.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "6835788072c52e9f12d41956",
+    "name": "NUK Accessories",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334719/admin-dashboard/brands/haprfqsp9opxdauo8uzw.png",
+    "createdAt": "2025-05-27T08:32:00.252Z",
+    "updatedAt": "2025-05-27T08:32:00.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "683578a872c52e9f12d4195c",
+    "name": "Johnson's & Johnson's",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334760/admin-dashboard/brands/tzmehfvya0v65cjbexif.png",
+    "createdAt": "2025-05-27T08:32:40.819Z",
+    "updatedAt": "2025-05-27T08:32:40.819Z",
+    "__v": 0
+  },
+  {
+    "_id": "683578bc72c52e9f12d41962",
+    "name": "Fisher Price",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334779/admin-dashboard/brands/yroubie6onoijvhdj2mi.png",
+    "createdAt": "2025-05-27T08:33:00.111Z",
+    "updatedAt": "2025-05-27T08:33:00.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "683578cb72c52e9f12d41968",
+    "name": "Evenflo",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334795/admin-dashboard/brands/coy1dlyftlbwqc4rhik2.png",
+    "createdAt": "2025-05-27T08:33:15.764Z",
+    "updatedAt": "2025-05-27T08:33:15.764Z",
+    "__v": 0
+  },
+  {
+    "_id": "683578da72c52e9f12d4196e",
+    "name": "Disney",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334809/admin-dashboard/brands/ua6tog8rffslxtyd5ikt.png",
+    "createdAt": "2025-05-27T08:33:30.178Z",
+    "updatedAt": "2025-05-27T08:33:30.178Z",
+    "__v": 0
+  },
+  {
+    "_id": "683578e972c52e9f12d41974",
+    "name": "Bright Star",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334825/admin-dashboard/brands/jckaj52ppyscwkni7jzp.png",
+    "createdAt": "2025-05-27T08:33:45.510Z",
+    "updatedAt": "2025-05-27T08:33:45.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "683578f772c52e9f12d4197a",
+    "name": "Baby Relax",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334839/admin-dashboard/brands/ck1pb4n823du9i5q05ur.png",
+    "createdAt": "2025-05-27T08:33:59.612Z",
+    "updatedAt": "2025-05-27T08:33:59.612Z",
+    "__v": 0
+  },
+  {
+    "_id": "6835790972c52e9f12d41980",
+    "name": "Baby Einstein",
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748334856/admin-dashboard/brands/gzphl9q9synvusesn1yn.png",
+    "createdAt": "2025-05-27T08:34:17.148Z",
+    "updatedAt": "2025-05-27T08:34:17.148Z",
+    "__v": 0
+  }
+]

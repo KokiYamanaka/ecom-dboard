@@ -1,0 +1,942 @@
+[
+  {
+    "_id": "682f6d19b343575e6572315b",
+    "name": "Baby Diaper Changing",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.\n        ",
+    "price": 55.9,
+    "discountPercentage": 10,
+    "stock": 12,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747938584/admin-dashboard/products/igensl8er0qhgwh9fkvj.jpg",
+    "category": "682f4f84aaccb60eab4f6bc8",
+    "brand": "6835785a72c52e9f12d41950",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:29:45.428Z",
+    "updatedAt": "2025-11-19T18:02:53.510Z",
+    "__v": 17,
+    "numReviews": 2,
+    "reviews": [
+      {
+        "userId": "68e5518a8e7aea8fc135d763",
+        "userName": "Noor Mohammad",
+        "rating": 4,
+        "comment": "Great product with good qualities",
+        "isApproved": true,
+        "createdAt": "2025-10-28T07:35:01.423Z",
+        "_id": "690072252d817377d44e9ea3"
+      },
+      {
+        "userId": "6900b2a3543c86a80ba37ecb",
+        "userName": "Mern BPI",
+        "rating": 5,
+        "comment": "Good product with perfect specifications",
+        "isApproved": true,
+        "createdAt": "2025-10-31T10:53:12.927Z",
+        "_id": "69049518def0a598e63c69b6"
+      }
+    ],
+    "viewCount": 23,
+    "views": [
+      {
+        "viewedAt": "2025-10-28T07:26:27.616Z",
+        "_id": "690070234fc9e857b1f57f0c"
+      },
+      {
+        "viewedAt": "2025-10-28T07:29:30.077Z",
+        "_id": "690070da4fc9e857b1f57f11"
+      },
+      {
+        "viewedAt": "2025-10-28T07:29:30.079Z",
+        "_id": "690070da4fc9e857b1f57f14"
+      },
+      {
+        "viewedAt": "2025-10-28T08:38:29.971Z",
+        "_id": "690081052d817377d44e9f2e"
+      },
+      {
+        "viewedAt": "2025-10-28T08:38:30.798Z",
+        "_id": "690081062d817377d44e9f34"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:00.255Z",
+        "_id": "690081d853adb0293bbf115c"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:00.314Z",
+        "_id": "690081d853adb0293bbf116c"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:12.520Z",
+        "_id": "690081e453adb0293bbf11b2"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:12.516Z",
+        "_id": "690081e453adb0293bbf11a8"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:14.432Z",
+        "_id": "690081e653adb0293bbf11da"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:14.435Z",
+        "_id": "690081e653adb0293bbf11e6"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:23.527Z",
+        "_id": "690081ef53adb0293bbf1238"
+      },
+      {
+        "viewedAt": "2025-10-28T08:42:23.531Z",
+        "_id": "690081ef53adb0293bbf1246"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T10:30:01.946Z",
+        "_id": "69009b29af4f088d58214e28"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T10:30:01.948Z",
+        "_id": "69009b29af4f088d58214e2a"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:35:47.923Z",
+        "_id": "6900aa93ca371260c693d288"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:35:47.922Z",
+        "_id": "6900aa93ca371260c693d286"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T12:10:56.717Z",
+        "_id": "6900b2d0543c86a80ba380aa"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T12:10:56.718Z",
+        "_id": "6900b2d0543c86a80ba380ac"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T08:58:11.952Z",
+        "_id": "690328a3a93a0a00ec8ee132"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T08:58:11.950Z",
+        "_id": "690328a3a93a0a00ec8ee130"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-31T10:52:41.805Z",
+        "_id": "690494f9def0a598e63c6938"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-31T10:52:41.807Z",
+        "_id": "690494f9def0a598e63c693a"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-31T10:53:34.963Z",
+        "_id": "6904952edef0a598e63c6a50"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-31T10:53:34.962Z",
+        "_id": "6904952edef0a598e63c6a4e"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-07T14:25:50.094Z",
+        "_id": "690e016e33255817302fe011"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-07T14:25:50.097Z",
+        "_id": "690e016e33255817302fe013"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-19T18:02:53.502Z",
+        "_id": "691e064dd5a21ec29a809d83"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-19T18:02:53.510Z",
+        "_id": "691e064dd5a21ec29a809d85"
+      }
+    ],
+    "productType": "trending",
+    "images": [
+      "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747938584/admin-dashboard/products/igensl8er0qhgwh9fkvj.jpg",
+      "https://res.cloudinary.com/dlbqw7atu/image/upload/v1762946244/products/b6adseazjmeu3mru2apl.jpg",
+      "https://res.cloudinary.com/dlbqw7atu/image/upload/v1762946246/products/omzjjvb3vl13kzwdvmxq.jpg"
+    ]
+  },
+  {
+    "_id": "682f6d45b343575e65723164",
+    "name": "Delta Children Disney Princess Plastic Toddler Canopy Bed, Pink",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 85.2,
+    "discountPercentage": 12,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747938628/admin-dashboard/products/wiisukgus6nu9ncriy50.jpg",
+    "category": "682f4f84aaccb60eab4f6bc8",
+    "brand": "683577f172c52e9f12d41944",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:30:29.117Z",
+    "updatedAt": "2025-11-12T11:49:19.000Z",
+    "__v": 2,
+    "numReviews": 0,
+    "productType": "base",
+    "reviews": [],
+    "viewCount": 4,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:22:54.537Z",
+        "_id": "6900a78eca371260c693c6ad"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:22:54.539Z",
+        "_id": "6900a78eca371260c693c6af"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-12T10:39:35.872Z",
+        "_id": "691463e75e62ba9fd4e64ff2"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-12T10:39:35.869Z",
+        "_id": "691463e75e62ba9fd4e64ff0"
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747938628/admin-dashboard/products/wiisukgus6nu9ncriy50.jpg",
+      "https://res.cloudinary.com/dlbqw7atu/image/upload/v1762948156/products/bitfx6zlta4pjjju0xc2.jpg"
+    ]
+  },
+  {
+    "_id": "682f6eb8b343575e65723171",
+    "name": "Disney/Pixar Cars Lightning McQueen Toddler-To-Twin Bed",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 419.99,
+    "discountPercentage": 15,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939000/admin-dashboard/products/xyits2oozi6lr8ye3qwl.jpg",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "683578f772c52e9f12d4197a",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:36:40.969Z",
+    "updatedAt": "2025-10-30T09:26:02.102Z",
+    "__v": 17,
+    "numReviews": 2,
+    "reviews": [
+      {
+        "userId": "68e5518a8e7aea8fc135d763",
+        "userName": "Noor Mohammad",
+        "rating": 3,
+        "comment": "Not so good, Need to get new model",
+        "isApproved": true,
+        "createdAt": "2025-10-28T09:06:18.767Z",
+        "_id": "6900878a1d5b7d980e62fb54"
+      },
+      {
+        "userId": "690089fbb0ea192ad89eb212",
+        "userName": "Noor Mohammad",
+        "rating": 4,
+        "comment": "Good product but better to have some new design with better features.",
+        "isApproved": true,
+        "createdAt": "2025-10-28T09:17:17.830Z",
+        "_id": "69008a1db0ea192ad89eb2ab"
+      }
+    ],
+    "viewCount": 22,
+    "views": [
+      {
+        "viewedAt": "2025-10-28T09:06:00.776Z",
+        "_id": "690087781d5b7d980e62fb4c"
+      },
+      {
+        "viewedAt": "2025-10-28T09:08:47.216Z",
+        "_id": "6900881f1d5b7d980e62fb90"
+      },
+      {
+        "viewedAt": "2025-10-28T09:08:49.485Z",
+        "_id": "690088211d5b7d980e62fb95"
+      },
+      {
+        "viewedAt": "2025-10-28T09:12:19.630Z",
+        "_id": "690088f3b0ea192ad89eb08b"
+      },
+      {
+        "viewedAt": "2025-10-28T09:12:21.747Z",
+        "_id": "690088f5b0ea192ad89eb0bd"
+      },
+      {
+        "viewedAt": "2025-10-28T09:16:52.983Z",
+        "_id": "69008a04b0ea192ad89eb297"
+      },
+      {
+        "viewedAt": "2025-10-28T09:16:52.989Z",
+        "_id": "69008a04b0ea192ad89eb29f"
+      },
+      {
+        "viewedAt": "2025-10-28T09:17:36.064Z",
+        "_id": "69008a30b0ea192ad89eb2fd"
+      },
+      {
+        "viewedAt": "2025-10-28T09:17:36.083Z",
+        "_id": "69008a30b0ea192ad89eb321"
+      },
+      {
+        "viewedAt": "2025-10-28T09:35:48.497Z",
+        "_id": "69008e74b0ea192ad89eb3bb"
+      },
+      {
+        "viewedAt": "2025-10-28T09:35:50.000Z",
+        "_id": "69008e76b0ea192ad89eb3e7"
+      },
+      {
+        "viewedAt": "2025-10-28T09:47:03.768Z",
+        "_id": "69009117b0ea192ad89eb435"
+      },
+      {
+        "viewedAt": "2025-10-28T09:47:05.876Z",
+        "_id": "69009119b0ea192ad89eb445"
+      },
+      {
+        "viewedAt": "2025-10-28T09:47:07.934Z",
+        "_id": "6900911bb0ea192ad89eb4ca"
+      },
+      {
+        "viewedAt": "2025-10-28T09:47:07.937Z",
+        "_id": "6900911bb0ea192ad89eb4db"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:03.245Z",
+        "_id": "6900936fa7bbe31cda056f7c"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:03.246Z",
+        "_id": "6900936fa7bbe31cda056f7e"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:10.091Z",
+        "_id": "69009376a7bbe31cda057071"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:10.092Z",
+        "_id": "69009376a7bbe31cda057073"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:16.127Z",
+        "_id": "6900937ca7bbe31cda05715e"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:16.128Z",
+        "_id": "6900937ca7bbe31cda057160"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:24:30.969Z",
+        "_id": "69032ece8420fe4679fff3c8"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:24:30.970Z",
+        "_id": "69032ece8420fe4679fff3ca"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:26:02.101Z",
+        "_id": "69032f2a8420fe4679fff7c4"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:26:02.101Z",
+        "_id": "69032f2a8420fe4679fff7c6"
+      }
+    ]
+  },
+  {
+    "_id": "682f6ee4b343575e6572317a",
+    "name": "Fisher-Price Tissue Fun Activity Cube Baby Sensory Crinkle Toys",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 15,
+    "discountPercentage": 12,
+    "stock": 20,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939044/admin-dashboard/products/ee9nif56e6p6evbyuspg.jpg",
+    "category": "682f50a9aaccb60eab4f6bfe",
+    "brand": "6835788072c52e9f12d41956",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:37:24.751Z",
+    "updatedAt": "2025-11-19T18:02:27.076Z",
+    "__v": 0,
+    "viewCount": 4,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-29T09:02:02.084Z",
+        "_id": "6901d80a16b7ee72c7f3081b"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-29T09:02:02.086Z",
+        "_id": "6901d80a16b7ee72c7f3081d"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-19T18:02:27.055Z",
+        "_id": "691e06337bb2f939093f5cec"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-19T18:02:27.075Z",
+        "_id": "691e0633e58067119a658368"
+      }
+    ]
+  },
+  {
+    "_id": "682f6fa2b343575e6572318d",
+    "name": "Garanimals Toddler Boys Cargo Short",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 10.5,
+    "discountPercentage": 19,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939234/admin-dashboard/products/l6ah4yqqv5ysf0pqvzqe.jpg",
+    "category": "682f50c8aaccb60eab4f6c04",
+    "brand": "683578e972c52e9f12d41974",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:40:34.843Z",
+    "updatedAt": "2025-10-30T09:24:45.005Z",
+    "__v": 1,
+    "viewCount": 4,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:23:42.341Z",
+        "_id": "69032e9e8420fe4679fff28c"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:23:42.344Z",
+        "_id": "69032e9e8420fe4679fff28e"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:24:45.007Z",
+        "_id": "69032edd8420fe4679fff471"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-30T09:24:45.005Z",
+        "_id": "69032edd8420fe4679fff46f"
+      }
+    ],
+    "numReviews": 0,
+    "productType": "base",
+    "reviews": [
+      {
+        "userId": "6900b2a3543c86a80ba37ecb",
+        "userName": "Mern BPI",
+        "rating": 4,
+        "comment": "Good products",
+        "isApproved": false,
+        "createdAt": "2025-10-30T09:23:58.707Z",
+        "_id": "69032eae8420fe4679fff2ab"
+      }
+    ]
+  },
+  {
+    "_id": "682f6fc2b343575e65723196",
+    "name": "Hudson Baby Infant Boy Plush Sleep and Play, Space Adventure",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 16.99,
+    "discountPercentage": 10,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939266/admin-dashboard/products/jv7r764xnphwoo17uqqz.jpg",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "6835783d72c52e9f12d4194a",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:41:06.610Z",
+    "updatedAt": "2025-10-28T11:26:07.407Z",
+    "__v": 0,
+    "viewCount": 2,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:26:07.406Z",
+        "_id": "6900a84fca371260c693cc56"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:26:07.407Z",
+        "_id": "6900a84fca371260c693cc58"
+      }
+    ]
+  },
+  {
+    "_id": "682f7027b343575e6572319f",
+    "name": "Little Star Organic Baby Boy 2 Pk Rompers, Size Newborn",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 15.89,
+    "discountPercentage": 10,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939366/admin-dashboard/products/gnyirhah3achwi7i4efk.jpg",
+    "category": "682f50c8aaccb60eab4f6c04",
+    "brand": "6835790972c52e9f12d41980",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:42:47.164Z",
+    "updatedAt": "2025-10-28T11:21:45.386Z",
+    "__v": 1,
+    "numReviews": 0,
+    "productType": "trending",
+    "reviews": [],
+    "viewCount": 0,
+    "views": []
+  },
+  {
+    "_id": "682f705bb343575e657231a8",
+    "name": "Pamo Babe Unisex Bassinet Nursery Center Flat Play Yard Crib",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 98.99,
+    "discountPercentage": 15,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939418/admin-dashboard/products/cbagu4nf9vyjskmbkavj.jpg",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "683578cb72c52e9f12d41968",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:43:39.064Z",
+    "updatedAt": "2025-10-28T11:22:09.793Z",
+    "__v": 1,
+    "numReviews": 0,
+    "reviews": [],
+    "viewCount": 5,
+    "views": [
+      {
+        "viewedAt": "2025-10-28T09:55:14.044Z",
+        "_id": "69009302b0ea192ad89eb60c"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:56:49.164Z",
+        "_id": "69009361a7bbe31cda056dbb"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:56:49.167Z",
+        "_id": "69009361a7bbe31cda056dbd"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:23.979Z",
+        "_id": "69009383a7bbe31cda057247"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T09:57:23.977Z",
+        "_id": "69009383a7bbe31cda057245"
+      }
+    ],
+    "productType": "trending"
+  },
+  {
+    "_id": "682f7098b343575e657231cf",
+    "name": "Huggies Little Swimmers Swim Diapers, Size 3 Small, 20 Ct",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 8.37,
+    "discountPercentage": 18,
+    "stock": 48,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939479/admin-dashboard/products/x85xbivogruskchqrok5.jpg",
+    "category": "682f5053aaccb60eab4f6bec",
+    "brand": "6835785a72c52e9f12d41950",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:44:40.156Z",
+    "updatedAt": "2025-06-03T09:20:51.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "682f70beb343575e657231d8",
+    "name": "Parent’s Choice Fresh Scent Baby Wipes, 900 Count (Select for More Options)",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 21.99,
+    "discountPercentage": 10,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939518/admin-dashboard/products/f7d127jlxr2xwcl50ler.jpg",
+    "category": "682f5053aaccb60eab4f6bec",
+    "brand": "6835783d72c52e9f12d4194a",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:45:18.912Z",
+    "updatedAt": "2025-05-27T08:39:51.899Z",
+    "__v": 0
+  },
+  {
+    "_id": "682f70dbb343575e657231e1",
+    "name": "Rolife Cotton Baby Changing Basket",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 56.99,
+    "discountPercentage": 19,
+    "stock": 50,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939546/admin-dashboard/products/s35xbsmhdiy0smns4rjz.jpg",
+    "category": "682f538d44c8ffb5823eb2fb",
+    "brand": "683578da72c52e9f12d4196e",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:45:47.464Z",
+    "updatedAt": "2025-10-28T11:34:12.501Z",
+    "__v": 0,
+    "viewCount": 2,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:34:12.500Z",
+        "_id": "6900aa34ca371260c693d1d9"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:34:12.501Z",
+        "_id": "6900aa34ca371260c693d1db"
+      }
+    ]
+  },
+  {
+    "_id": "682f7110b343575e657231ea",
+    "name": "Storkcraft Sunset 4 in 1 Convertible Baby Crib, Gray",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 215,
+    "discountPercentage": 12,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939599/admin-dashboard/products/oz1ldemzgkdtyzrv8gnu.jpg",
+    "category": "682f538d44c8ffb5823eb2fb",
+    "brand": "683577f172c52e9f12d41944",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:46:40.062Z",
+    "updatedAt": "2025-06-03T09:21:19.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "682f712fb343575e657231f3",
+    "name": "Pull-Ups Boys’ Potty Training Pants",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 60.99,
+    "discountPercentage": 10,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1747939631/admin-dashboard/products/podag9rzupn8jrt1znv4.jpg",
+    "category": "682f4fd6aaccb60eab4f6bda",
+    "brand": "683578a872c52e9f12d4195c",
+    "ratings": [],
+    "createdAt": "2025-05-22T18:47:11.671Z",
+    "updatedAt": "2025-11-19T17:53:27.318Z",
+    "__v": 1,
+    "numReviews": 0,
+    "productType": "trending",
+    "reviews": [],
+    "viewCount": 2,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-11-19T17:53:27.316Z",
+        "_id": "691e0417fb75090391e5089d"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-11-19T17:53:27.317Z",
+        "_id": "691e0417a274e105911b8c87"
+      }
+    ]
+  },
+  {
+    "_id": "68739c5a5ade7ee11f3e7095",
+    "name": "Beech-Nut Probiotic Melties Apple Carrots Mango Yogurt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 5.5,
+    "discountPercentage": 15,
+    "stock": 15,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1752407130/admin-dashboard/products/j7xnhej6knfy0tknnr7j.webp",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "683578da72c52e9f12d4196e",
+    "ratings": [],
+    "createdAt": "2025-07-13T11:45:30.761Z",
+    "updatedAt": "2025-10-28T11:41:30.648Z",
+    "__v": 1,
+    "numReviews": 0,
+    "productType": "trending",
+    "reviews": [],
+    "viewCount": 0,
+    "views": []
+  },
+  {
+    "_id": "68739d135ade7ee11f3e70a7",
+    "name": "L.V Liquid Mixture of powdered drinking water",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 45.8,
+    "discountPercentage": 5,
+    "stock": 20,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1752407314/admin-dashboard/products/ipp0d931la6skyjp5bb0.webp",
+    "category": "682f50a9aaccb60eab4f6bfe",
+    "brand": "6835788072c52e9f12d41956",
+    "ratings": [],
+    "createdAt": "2025-07-13T11:48:35.507Z",
+    "updatedAt": "2025-10-28T12:10:44.500Z",
+    "__v": 0,
+    "viewCount": 2,
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T12:10:44.498Z",
+        "_id": "6900b2c4543c86a80ba37fb4"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T12:10:44.500Z",
+        "_id": "6900b2c4543c86a80ba37fb6"
+      }
+    ]
+  },
+  {
+    "_id": "68739d5b5ade7ee11f3e70d8",
+    "name": "Happy Baby Organics Teethers, Sweet Potato & Banana Organic",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 7.85,
+    "discountPercentage": 10,
+    "stock": 8,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1752407386/admin-dashboard/products/lgdvebhkklnxwixbnztk.webp",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "683578e972c52e9f12d41974",
+    "ratings": [],
+    "createdAt": "2025-07-13T11:49:47.851Z",
+    "updatedAt": "2025-10-28T11:21:57.522Z",
+    "__v": 1,
+    "numReviews": 0,
+    "productType": "trending",
+    "reviews": [],
+    "viewCount": 0,
+    "views": []
+  },
+  {
+    "_id": "68739d845ade7ee11f3e70e0",
+    "name": "Plum Organics Teensy Snacks Soft Fruit Snacks for Toddlers",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 4.6,
+    "discountPercentage": 25,
+    "stock": 35,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1752407427/admin-dashboard/products/zjxtpe2pytnz22zmmhrl.webp",
+    "category": "682f5df058405c9dfaf853e1",
+    "brand": "683578cb72c52e9f12d41968",
+    "ratings": [],
+    "createdAt": "2025-07-13T11:50:28.229Z",
+    "updatedAt": "2025-07-13T11:50:28.229Z",
+    "__v": 0
+  },
+  {
+    "_id": "68739db65ade7ee11f3e70e8",
+    "name": "Zicam Zinc Cold Remedy RapidMelts Quick-Dissolve Tablets Citrus Flavor 25ct",
+    "description": "Zicam Zinc Cold Remedy RapidMelts Quick-Dissolve Tablets Citrus Flavor 25ct",
+    "price": 15,
+    "discountPercentage": 10,
+    "stock": 12,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1752407478/admin-dashboard/products/ktivw0bqv2lneuarhvqw.webp",
+    "category": "682f508baaccb60eab4f6bf8",
+    "brand": "6835783d72c52e9f12d4194a",
+    "ratings": [],
+    "createdAt": "2025-07-13T11:51:18.988Z",
+    "updatedAt": "2025-10-28T11:40:40.689Z",
+    "__v": 1,
+    "numReviews": 0,
+    "productType": "trending",
+    "reviews": [],
+    "viewCount": 0,
+    "views": []
+  },
+  {
+    "_id": "6876aa1800a8ba7c9813734d",
+    "name": "Local Product",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 10,
+    "discountPercentage": 20,
+    "stock": 10,
+    "averageRating": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1752607256/admin-dashboard/products/lxbbuadqdsygkyd5qdaw.webp",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "6835783d72c52e9f12d4194a",
+    "ratings": [],
+    "createdAt": "2025-07-15T19:20:56.570Z",
+    "updatedAt": "2025-07-16T14:15:22.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "69009b55af4f088d58214e60",
+    "name": "Newborn Baby Girl Clothes",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 15,
+    "discountPercentage": 10,
+    "stock": 50,
+    "averageRating": 0,
+    "numReviews": 0,
+    "viewCount": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1761647445/products/ke3gv5xnh9hhyupun8gb.jpg",
+    "category": "682f4f84aaccb60eab4f6bc8",
+    "brand": "683578da72c52e9f12d4196e",
+    "ratings": [],
+    "reviews": [],
+    "views": [],
+    "createdAt": "2025-10-28T10:30:45.770Z",
+    "updatedAt": "2025-10-28T10:30:45.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "6900a7b3ca371260c693c76a",
+    "name": "Toddler Girl Outfits Ruffle",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 29,
+    "discountPercentage": 10,
+    "stock": 100,
+    "averageRating": 0,
+    "numReviews": 0,
+    "viewCount": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1761650610/products/mffp9txgzmg0duxlpc8d.jpg",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "683578f772c52e9f12d4197a",
+    "productType": "trending",
+    "ratings": [],
+    "reviews": [],
+    "views": [],
+    "createdAt": "2025-10-28T11:23:31.495Z",
+    "updatedAt": "2025-10-28T11:23:31.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "6900a879ca371260c693cc80",
+    "name": "NAPU Baby Girl Clothes Long Sleeve",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 25,
+    "discountPercentage": 15,
+    "stock": 10,
+    "averageRating": 0,
+    "numReviews": 0,
+    "viewCount": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1761650809/products/co2arpj6etpf6uidowuv.jpg",
+    "category": "682f506baaccb60eab4f6bf2",
+    "brand": "683578e972c52e9f12d41974",
+    "productType": "deals",
+    "ratings": [],
+    "reviews": [],
+    "views": [],
+    "createdAt": "2025-10-28T11:26:49.684Z",
+    "updatedAt": "2025-10-28T11:26:49.684Z",
+    "__v": 0
+  },
+  {
+    "_id": "6900a8c7ca371260c693ccab",
+    "name": "Simple Joys Baby Suits",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 55,
+    "discountPercentage": 10,
+    "stock": 56,
+    "averageRating": 0,
+    "numReviews": 0,
+    "viewCount": 4,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1761650886/products/en3n55hpzgdbezts1jjb.jpg",
+    "category": "682f4fbfaaccb60eab4f6bd4",
+    "brand": "683578da72c52e9f12d4196e",
+    "productType": "trending",
+    "ratings": [],
+    "reviews": [],
+    "views": [
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:41:00.345Z",
+        "_id": "6900abcccad2fed4a2fedd84"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:41:00.348Z",
+        "_id": "6900abcccad2fed4a2fedd86"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:41:03.166Z",
+        "_id": "6900abcfcad2fed4a2fede54"
+      },
+      {
+        "userId": null,
+        "viewedAt": "2025-10-28T11:41:03.167Z",
+        "_id": "6900abcfcad2fed4a2fede56"
+      }
+    ],
+    "createdAt": "2025-10-28T11:28:07.241Z",
+    "updatedAt": "2025-10-28T11:41:03.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6900aa63ca371260c693d1e5",
+    "name": "Musical Sunflower Piano Game Machine",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 12,
+    "discountPercentage": 0,
+    "stock": 20,
+    "averageRating": 0,
+    "numReviews": 0,
+    "viewCount": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1761651299/products/ttbh16npiyy9xmfasvhw.jpg",
+    "category": "682f50a9aaccb60eab4f6bfe",
+    "brand": "683578cb72c52e9f12d41968",
+    "productType": "trending",
+    "ratings": [],
+    "reviews": [],
+    "views": [],
+    "createdAt": "2025-10-28T11:34:59.693Z",
+    "updatedAt": "2025-10-28T11:40:18.540Z",
+    "__v": 0
+  },
+  {
+    "_id": "6900aabaca371260c693d2c6",
+    "name": "Crawling Crab Baby Toy",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates illo repellendus sunt incidunt? Quod fugiat sequi recusandae provident laborum quidem maxime qui repudiandae excepturi officiis architecto doloribus, sapiente voluptas exercitationem.",
+    "price": 29,
+    "discountPercentage": 25,
+    "stock": 15,
+    "averageRating": 0,
+    "numReviews": 0,
+    "viewCount": 0,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1761651386/products/s3tiyoxcdcd3jsrq5jdp.jpg",
+    "category": "682f4fd6aaccb60eab4f6bda",
+    "brand": "683578bc72c52e9f12d41962",
+    "productType": "deals",
+    "ratings": [],
+    "reviews": [],
+    "views": [],
+    "createdAt": "2025-10-28T11:36:26.942Z",
+    "updatedAt": "2025-10-28T11:36:26.942Z",
+    "__v": 0
+  }
+]

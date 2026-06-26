@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "68355c4406d48f691ad7e42f",
+    "name": "Best Deals Today",
+    "title": "Our Baby is on the way to come here",
+    "startFrom": 50,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748327492/admin-dashboard/banners/c6kh76hl8dvhztiok0fm.jpg",
+    "bannerType": "hotDeal",
+    "createdAt": "2025-05-27T06:31:32.566Z",
+    "updatedAt": "2025-05-27T06:31:32.566Z",
+    "__v": 0
+  },
+  {
+    "_id": "68355cc606d48f691ad7e434",
+    "name": "Hot this week",
+    "title": "Baby deals",
+    "startFrom": 70,
+    "image": "https://res.cloudinary.com/dlbqw7atu/image/upload/v1748327622/admin-dashboard/banners/wtwmvnxzwvqbtxehupsg.jpg",
+    "bannerType": "hotDeal",
+    "createdAt": "2025-05-27T06:33:42.742Z",
+    "updatedAt": "2025-05-27T06:33:42.742Z",
+    "__v": 0
+  }
+]

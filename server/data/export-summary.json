@@ -1,0 +1,10 @@
+{
+  "exportedAt": "2026-01-07T11:37:31.477Z",
+  "collections": {
+    "banners": 2,
+    "brands": 11,
+    "categories": 17,
+    "products": 25
+  },
+  "note": "Products exported with empty ratings and reviews arrays"
+}
