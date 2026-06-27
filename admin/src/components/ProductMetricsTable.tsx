@@ -6,7 +6,6 @@ import {
   flexRender,
   ColumnDef,
 } from "@tanstack/react-table";
-import { LineChart, Line, ResponsiveContainer } from "recharts";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import {
@@ -85,25 +84,6 @@ export default function ProductMetricsTable({
         ),
       },
       {
-        accessorKey: "official_product",
-        header: "Official",
-        size: 120,
-        cell: ({ row }) => (
-          <div className="truncate text-sm" title={row.getValue("official_product")}>
-            {row.getValue("official_product")}
-          </div>
-        ),
-      },
-      {
-        accessorKey: "match_score",
-        header: "Score",
-        size: 80,
-        cell: ({ row }) => {
-          const value = row.getValue("match_score") as number;
-          return <div className="text-sm">{Number(value)?.toFixed(1) || "-"}</div>;
-        },
-      },
-      {
         accessorKey: "new_product",
         header: "New",
         size: 70,
@@ -156,32 +136,20 @@ export default function ProductMetricsTable({
           return <div className="text-sm">{Number(value)?.toFixed(1) || "-"}%</div>;
         },
       },
-      {
-        id: "trend",
-        header: "Trend",
-        size: 100,
-        cell: ({ row }) => {
-          const chartData = monthlyColumns.map((month) => ({
-            month: month.split("-")[1],
-            value: Number(row.original[month]) || 0,
-          }));
+      ...monthlyColumns.map((month) => ({
+        id: month,
+        header: month,
+        size: 75,
+        cell: ({ row }: { row: any }) => {
+          const value = row.original[month];
+          const num = value != null && value !== "" ? Number(value) : null;
           return (
-            <div className="w-20 h-8 flex items-center justify-center">
-              <ResponsiveContainer width={80} height={32}>
-                <LineChart data={chartData} margin={{ top: 2, right: 2, bottom: 2, left: 2 }}>
-                  <Line
-                    type="monotone"
-                    dataKey="value"
-                    stroke="#29beb3"
-                    dot={false}
-                    strokeWidth={1.5}
-                  />
-                </LineChart>
-              </ResponsiveContainer>
+            <div className="text-sm text-right">
+              {num != null ? `${num.toFixed(1)}%` : "-"}
             </div>
           );
         },
-      },
+      })),
       {
         id: "memo",
         header: "Memo",
