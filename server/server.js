@@ -32,14 +32,15 @@ const app = express();
 const allowedOrigins = [
   process.env.ADMIN_URL,
   process.env.CLIENT_URL,
-  // Add production URLs
-   "https://babymart-admin-beta.vercel.app",  // admin
-   "https://babymart-client-beta.vercel.app", // client
+  // Production URLs
+  "https://ecom-dboard-fe.vercel.app",
+  "https://babymart-admin-beta.vercel.app",
+  "https://babymart-client-beta.vercel.app",
   "https://admin.babyshop.reactbd.com",
   "https://babyshop.reactbd.com",
   "https://babyshop-admin.netlify.app",
 
-  // Add localhost for development
+  // Localhost for development
   "http://localhost:3000",
   "http://localhost:5173",
 ].filter(Boolean); // Remove any undefined values
