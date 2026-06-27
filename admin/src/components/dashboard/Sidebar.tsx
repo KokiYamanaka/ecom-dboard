@@ -13,7 +13,8 @@ import {
   Layers,
   Package,
   User,
-  FileText, 
+  FileText,
+  BarChart2,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { motion, AnimatePresence } from "framer-motion";
@@ -115,6 +116,12 @@ export default function Sidebar({ open, setOpen }: SidebarProps) {
           to="/dashboard/products"
           icon={<ShoppingBag size={20} />}
           label="Products"
+          open={open}
+        />
+        <NavItem
+          to="/dashboard/product-metrics"
+          icon={<BarChart2 size={20} />}
+          label="Product Metrics"
           open={open}
         />
         <NavItem
