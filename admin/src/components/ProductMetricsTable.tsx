@@ -77,31 +77,12 @@ export default function ProductMetricsTable({
       {
         accessorKey: "product_name_identifier",
         header: "Product ID",
-        size: 120,
+        size: 200,
         cell: ({ row }) => (
-          <div className="truncate text-sm" title={row.getValue("product_name_identifier")}>
+          <div className="text-sm break-words whitespace-normal">
             {row.getValue("product_name_identifier")}
           </div>
         ),
-      },
-      {
-        accessorKey: "official_product",
-        header: "Official",
-        size: 120,
-        cell: ({ row }) => (
-          <div className="truncate text-sm" title={row.getValue("official_product")}>
-            {row.getValue("official_product")}
-          </div>
-        ),
-      },
-      {
-        accessorKey: "match_score",
-        header: "Score",
-        size: 80,
-        cell: ({ row }) => {
-          const value = row.getValue("match_score") as number;
-          return <div className="text-sm">{Number(value)?.toFixed(1) || "-"}</div>;
-        },
       },
       {
         accessorKey: "new_product",
@@ -140,8 +121,8 @@ export default function ProductMetricsTable({
       },
       {
         accessorKey: "pct_change",
-        header: "Change %",
-        size: 70,
+        header: "CVR Change %",
+        size: 100,
         cell: ({ row }) => {
           const value = row.getValue("pct_change") as number;
           return <div className="text-sm font-semibold">{Number(value)?.toFixed(1) || "-"}%</div>;
@@ -149,8 +130,8 @@ export default function ProductMetricsTable({
       },
       {
         accessorKey: "pct_change_available_start_month",
-        header: "Change Start",
-        size: 80,
+        header: "CVR Start %",
+        size: 110,
         cell: ({ row }) => {
           const value = row.getValue("pct_change_available_start_month") as number;
           return <div className="text-sm">{Number(value)?.toFixed(1) || "-"}%</div>;
@@ -264,15 +245,14 @@ export default function ProductMetricsTable({
   return (
     <div className="bg-white rounded-lg shadow border border-gray-200 overflow-hidden h-full flex flex-col">
       <div className="overflow-x-auto flex-1">
-        <div className="inline-block min-w-full">
-          <table className="table-fixed w-full border-collapse">
+        <table className="table-fixed border-collapse" style={{ minWidth: "max-content" }}>
             <thead className="bg-gray-100 sticky top-0 z-10">
               {table.getHeaderGroups().map((headerGroup) => (
-                <tr key={headerGroup.id} className="bg-gray-100">
+                <tr key={headerGroup.id}>
                   {headerGroup.headers.map((header) => (
                     <th
                       key={header.id}
-                      className="p-2 text-left text-xs font-semibold border-b border-gray-300"
+                      className="p-2 text-left text-xs font-semibold border-b border-gray-300 bg-gray-100"
                       style={{ width: `${header.getSize()}px`, minWidth: `${header.getSize()}px` }}
                     >
                       <div className="truncate">{flexRender(header.column.columnDef.header, header.getContext())}</div>
@@ -312,8 +292,7 @@ export default function ProductMetricsTable({
                 </tr>
               ))}
             </tbody>
-          </table>
-        </div>
+        </table>
       </div>
       <div className="border-t border-gray-200 p-2 bg-gray-50 text-sm text-gray-600">
         Showing {table.getRowModel().rows.length} of {data.length} rows
