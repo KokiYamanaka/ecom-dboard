@@ -18,6 +18,7 @@ import orderRoutes from "./routes/orderRoutes.js";
 import wishlistRoutes from "./routes/wishlistRoutes.js";
 import cartRoutes from "./routes/cartRoutes.js";
 import analyticsRoutes from "./routes/analyticsRoutes.js";
+import performanceRoutes from "./routes/performanceRoutes.js";
 
 // Load env vars
 dotenv.config();
@@ -69,6 +70,7 @@ app.use("/api/orders", orderRoutes);//
 app.use("/api/wishlist", wishlistRoutes); // 
 app.use("/api/cart", cartRoutes);// 
 app.use("/api/analytics", analyticsRoutes);
+app.use("/api/performance", performanceRoutes);
 
 // API Documentation
 app.use(

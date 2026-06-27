@@ -12,6 +12,7 @@ import BrandsPage from "@/pages/dashboard/BrandsPage";
 import OrdersPage from "@/pages/dashboard/Orders";
 import BannersPage from "./pages/dashboard/BannersPage";
 import InvoicePage from "./pages/dashboard/InvoicePage";
+import ProductMetricsPage from "@/pages/dashboard/ProductMetricsPage";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
           <Route path="invoices" element={<InvoicePage />} />
           <Route path="banners" element={<BannersPage />} />
           <Route path="products" element={<ProductsPage />} />
+          <Route path="product-metrics" element={<ProductMetricsPage />} />
           <Route path="categories" element={<CategoriesPage />} />
           <Route path="brands" element={<BrandsPage />} />
         </Route>
