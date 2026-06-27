@@ -28,26 +28,26 @@ connectDB();
 
 const app = express();
 
-// // Enhanced CORS configuration
-// const allowedOrigins = [
-//   process.env.ADMIN_URL,
-//   process.env.CLIENT_URL,
-//   // Add production URLs
-//    "https://babymart-admin-beta.vercel.app",  // admin 
-//    "https://babymart-client-beta.vercel.app", // client 
-//   "https://admin.babyshop.reactbd.com",
-//   "https://babyshop.reactbd.com",
-//   "https://babyshop-admin.netlify.app",
+// Enhanced CORS configuration
+const allowedOrigins = [
+  process.env.ADMIN_URL,
+  process.env.CLIENT_URL,
+  // Add production URLs
+   "https://babymart-admin-beta.vercel.app",  // admin
+   "https://babymart-client-beta.vercel.app", // client
+  "https://admin.babyshop.reactbd.com",
+  "https://babyshop.reactbd.com",
+  "https://babyshop-admin.netlify.app",
 
-//   // Add localhost for development
-//   "http://localhost:3000",
-//   "http://localhost:5173",
-// ].filter(Boolean); // Remove any undefined values
-// console.log("Allowed origins:", allowedOrigins);
+  // Add localhost for development
+  "http://localhost:3000",
+  "http://localhost:5173",
+].filter(Boolean); // Remove any undefined values
+console.log("Allowed origins:", allowedOrigins);
 
 app.use(
   cors({
-    origin: true ,
+    origin: allowedOrigins,
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
@@ -91,10 +91,13 @@ app.get("/", (req, res) => {
 // Error handler
 app.use(errorHandler);
 
-// Start server
-const PORT = process.env.PORT || 8000;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-  console.log(`Client URL: ${process.env.CLIENT_URL}`);
-  console.log(`API docs available at: http://localhost:${PORT}/api/docs`);
-});
+// Start server (local development only)
+if (process.env.NODE_ENV !== 'production') {
+  const PORT = process.env.PORT || 8000;
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+    console.log(`API docs available at: http://localhost:${PORT}/api/docs`);
+  });
+}
+
+export default app;
